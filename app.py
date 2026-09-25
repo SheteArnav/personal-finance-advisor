@@ -251,7 +251,7 @@ def generate_ai_advice(month=None):
     try:
         import google.generativeai as genai
         genai.configure(api_key=api_key)
-        model = genai.GenerativeModel('gemini-1.5-flash')
+        model = genai.GenerativeModel('gemini-2.5-flash')
 
         prompt = f"""You are a helpful personal finance advisor. Analyze the following financial data for the month of {month} and provide 5-7 specific, actionable, friendly financial tips in simple language. Use Indian Rupee (₹) symbol.
 
