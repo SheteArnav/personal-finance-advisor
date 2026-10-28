@@ -6,7 +6,7 @@ A full-stack personal finance web application built with **Python Flask** and **
 
 ## 🚀 Live Demo
 
-> Deploy to Render and add your URL here: https://personal-finance-advisor-t56b.onrender.com/
+ https://personal-finance-advisor-t56b.onrender.com/
 ---
 
 ## ✨ Features
